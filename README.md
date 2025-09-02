@@ -26,9 +26,13 @@ It detects **new, modified, and deleted files** by comparing file hashes against
 
 ## Example Output
 Monitoring F:\Projects\File Integrity Monitor\Monitored for changes...
+
 **[NEW FILE]** F:\Projects\File Integrity Monitor\Monitored\new_doc.txt
+
 **[MODIFIED]** F:\Projects\File Integrity Monitor\Monitored\report.pdf
+
 **[DELETED]** F:\Projects\File Integrity Monitor\Monitored\old_notes.txt
+
 Modifications Detected. Updating baseline...
 
 ## Future Improvements
